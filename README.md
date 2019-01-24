@@ -8,13 +8,7 @@ You can find out information about the top customers across your store and the m
 
 Here's what you can expect to see while you're using the bot:
 
-![](screenshots/screenshot1.png)
-
-![](screenshots/screenshot2.png)
-
-![](screenshots/screenshot3.png)
-
-![](screenshots/screenshot4.png)
+![](screenshots/user.gif)
 
 
 ## Developer Guide
@@ -49,7 +43,7 @@ A cron job fills up memcache with all of the charge information from the Stripe 
 
 In the event memcache doesn't have the necessary information, the app can fall back to hitting the Stripe API as well.
 
-#### Deploying
+####     Deploying
 
 To run locally: `dev_appserver.py ./` (from project directory), then send requests to `http://localhost:8080`.
 

@@ -9,4 +9,3 @@ easily tell me where to look in the docs.
 and one at https://stripe.com/docs and I wasn't sure which
 to use when.
 * Love the "Was this section Helpful (Yes/No)" questions.
-*

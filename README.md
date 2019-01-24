@@ -1,4 +1,4 @@
-# Stripe Metrics Project
+# Stripe Metrics Chat Bot
 
 ## User Guide
 

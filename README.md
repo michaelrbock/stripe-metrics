@@ -43,7 +43,9 @@ A cron job fills up memcache with all of the charge information from the Stripe 
 
 In the event memcache doesn't have the necessary information, the app can fall back to hitting the Stripe API as well.
 
-####     Deploying
+#### Running/Deploying
+
+In order to run this project, you'll need to download and install the Google App Engine Cloud SDK for Python [here](https://cloud.google.com/appengine/docs/standard/python/download).
 
 To run locally: `dev_appserver.py ./` (from project directory), then send requests to `http://localhost:8080`.
 

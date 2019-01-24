@@ -49,7 +49,7 @@ A cron job fills up memcache with all of the charge information from the Stripe 
 
 In the event memcache doesn't have the necessary information, the app can fall back to hitting the Stripe API as well.
 
-### Deploying
+#### Deploying
 
 To run locally: `dev_appserver.py ./` (from project directory), then send requests to `http://localhost:8080`.
 

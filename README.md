@@ -2,7 +2,7 @@
 
 ## User Guide
 
-To get started, simply message the chatbot on FB via this link: TODO.
+To get started, simply message the chatbot on FB via this link: TODO(waiting for FB approval).
 
 You can find out information about the top customers across your store and the most lucrative item descriptions/adjectives, e.g. "Sleek".
 
